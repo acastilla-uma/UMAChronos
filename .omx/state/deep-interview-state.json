@@ -1,0 +1,49 @@
+{
+  "current_phase": "complete",
+  "active": false,
+  "initial_idea": "Línea base de rendimiento MAN10T en rimls.ply",
+  "challenge_modes_used": [
+    "contrarian"
+  ],
+  "interview_id": "2b23c0c9-1139-4748-bb20-54d4c61d910d",
+  "rounds": [
+    {
+      "answer": "Diez trayectorias distintas de 10 segundos simulados",
+      "number": 1
+    },
+    {
+      "answer": "Tiempo del motor con mapa cargado",
+      "number": 2
+    }
+  ],
+  "clarity": {
+    "outcome": 0.95,
+    "context": 0.8,
+    "scope": 0.9,
+    "intent": 0.94,
+    "success": 0.72,
+    "constraints": 0.48
+  },
+  "threshold": 0.2,
+  "current_stage": "complete",
+  "profile": "standard",
+  "current_ambiguity": 0.11,
+  "context_snapshot_path": ".omx/context/man10t-rimls-profiling-20261109T083752Z.md",
+  "max_rounds": 12,
+  "non_goals": "Carga del mapa y navegador fuera del tiempo principal; optimización de producto fuera del trabajo",
+  "current_focus": "constraints",
+  "decision_boundaries": "Pendiente: alternativa si no hay vatios de CPU",
+  "pending_question": null,
+  "type": "brownfield",
+  "experimental_variant": "SI energetico",
+  "pressure_pass": "Alcance del tiempo sometido a escenario de mejora del motor sin mejora del visor",
+  "research_result": "PDF originales verificados. PLTR Li eq10 requiere kf/kr monovia no definidos por motor. Predictor cinematico posible, no identico. LTR/SI energetico/ZML completos calculables con limites documentados.",
+  "research_artifact": ".omx/research/viabilidad-indices-estabilidad.md",
+  "spec_path": ".omx/specs/deep-interview-man10t-rimls-profiling.md",
+  "handoff": "Medición local de línea base, sin activar un objetivo de optimización",
+  "round4_answer": "PLTR cinematico, inspirado en Li; mostrar formula e hipotesis",
+  "completed_at": "2026-11-09T08:41:14.990Z",
+  "round3_answer": "Entregar con carga CPU y potencia GPU si falta potencia CPU",
+  "run_outcome": "finish",
+  "lifecycle_outcome": "finished"
+}

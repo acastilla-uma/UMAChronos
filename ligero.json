@@ -1,0 +1,27 @@
+{
+  "format": "fusionforce-config",
+  "version": 1,
+  "config": {
+    "x": 7.805509090423584,
+    "y": -20.501239776611328,
+    "z": 0.6434871673583984,
+    "roll": 0,
+    "pitch": 0,
+    "yaw": 90,
+    "vx": 0,
+    "vy": 0,
+    "vz": 0,
+    "wx": 0,
+    "wy": 0,
+    "wz": 0,
+    "speed": 0,
+    "steering": 0,
+    "friction": 0.7,
+    "stiffness": 1000000,
+    "dt": 0.002,
+    "duration": 2,
+    "showVectors": true,
+    "disableCsv": true,
+    "lightweightPhysics": true
+  }
+}
